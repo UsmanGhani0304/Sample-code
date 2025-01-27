@@ -1,0 +1,22 @@
+{
+  "name": "sample-code",
+  "version": "1.0.0",
+  "description": "A sample code provided to run the node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanGhani0304/Sample-code.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Taha, Usman, Anas and Shaheer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/UsmanGhani0304/Sample-code/issues"
+  },
+  "homepage": "https://github.com/UsmanGhani0304/Sample-code#readme"
+}
